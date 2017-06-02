@@ -10,7 +10,7 @@
 		CC93C0E41EE17BF2009ED960 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CC93C0E31EE17BF2009ED960 /* main.m */; };
 		CC93C0E71EE17BF2009ED960 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CC93C0E61EE17BF2009ED960 /* AppDelegate.m */; };
 		CC93C0EA1EE17BF2009ED960 /* ww.m in Sources */ = {isa = PBXBuildFile; fileRef = CC93C0E91EE17BF2009ED960 /* ww.m */; };
-		CC93C0ED1EE17BF2009ED960 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC93C0EB1EE17BF2009ED960 /* Main.storyboard */; };
+		CC93C0ED1EE17BF2009ED960 /* yo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC93C0EB1EE17BF2009ED960 /* yo.storyboard */; };
 		CC93C0EF1EE17BF2009ED960 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC93C0EE1EE17BF2009ED960 /* Assets.xcassets */; };
 		CC93C0F21EE17BF2009ED960 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC93C0F01EE17BF2009ED960 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -62,7 +62,7 @@
 				CC93C0E61EE17BF2009ED960 /* AppDelegate.m */,
 				CC93C0E81EE17BF2009ED960 /* ViewController.h */,
 				CC93C0E91EE17BF2009ED960 /* ww.m */,
-				CC93C0EB1EE17BF2009ED960 /* Main.storyboard */,
+				CC93C0EB1EE17BF2009ED960 /* yo.storyboard */,
 				CC93C0EE1EE17BF2009ED960 /* Assets.xcassets */,
 				CC93C0F01EE17BF2009ED960 /* LaunchScreen.storyboard */,
 				CC93C0F31EE17BF2009ED960 /* Info.plist */,
@@ -140,7 +140,7 @@
 			files = (
 				CC93C0F21EE17BF2009ED960 /* LaunchScreen.storyboard in Resources */,
 				CC93C0EF1EE17BF2009ED960 /* Assets.xcassets in Resources */,
-				CC93C0ED1EE17BF2009ED960 /* Main.storyboard in Resources */,
+				CC93C0ED1EE17BF2009ED960 /* yo.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,12 +160,12 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		CC93C0EB1EE17BF2009ED960 /* Main.storyboard */ = {
+		CC93C0EB1EE17BF2009ED960 /* yo.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				CC93C0EC1EE17BF2009ED960 /* Base */,
 			);
-			name = Main.storyboard;
+			name = yo.storyboard;
 			sourceTree = "<group>";
 		};
 		CC93C0F01EE17BF2009ED960 /* LaunchScreen.storyboard */ = {
