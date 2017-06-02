@@ -24,7 +24,10 @@
     NSLog(@"没错,我就是李四,是不一样的烟火");
 
 }
+-(void)demo{
 
+    NSLog(@"我又改了自己的代码,你有意见吗");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
