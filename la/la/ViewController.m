@@ -26,7 +26,7 @@
 }
 -(void)demo{
 
-    NSLog(@"我又改了自己的代码,你有意见吗");
+    NSLog(@"我来改一脚,by:wangwu");
 }
 
 - (void)didReceiveMemoryWarning {
