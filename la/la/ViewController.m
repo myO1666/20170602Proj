@@ -32,6 +32,7 @@
     NSLog(@"let me go");
     NSLog(@"hello,骚琪琪");
     NSLog(@"yeah");
+    NSLog(@"我是骚琪琪");
 }
 
 - (void)didReceiveMemoryWarning {
