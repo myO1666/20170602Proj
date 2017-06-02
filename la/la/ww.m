@@ -28,11 +28,15 @@
 
     NSLog(@"我来改2脚,by:lisi");
     NSLog(@"kanninengbu");
+
+    NSLog(@"姐姐就是diao");
+
     NSLog(@"let you go");
     NSLog(@"let me go");
     NSLog(@"hello,骚琪琪");
     NSLog(@"yeah");
     NSLog(@"我是骚琪琪");
+
 }
 
 - (void)didReceiveMemoryWarning {
