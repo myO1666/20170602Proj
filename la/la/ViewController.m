@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"我在王五的分支里写代码,by:李四");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
