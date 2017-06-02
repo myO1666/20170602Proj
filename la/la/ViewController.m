@@ -26,7 +26,7 @@
 }
 -(void)demo{
 
-    NSLog(@"我来改一脚,by:wangwu");
+    NSLog(@"我来改2脚,by:lisi");
 }
 
 - (void)didReceiveMemoryWarning {
