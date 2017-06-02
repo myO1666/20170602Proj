@@ -28,6 +28,7 @@
 
     NSLog(@"我来改2脚,by:lisi");
     NSLog(@"kanninengbu");
+    NSLog(@"姐姐就是猛");
 }
 
 - (void)didReceiveMemoryWarning {
