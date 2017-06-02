@@ -28,6 +28,7 @@
 
     NSLog(@"我来改2脚,by:lisi");
     NSLog(@"kanninengbu");
+    NSLog(@"let you go");
 }
 
 - (void)didReceiveMemoryWarning {
