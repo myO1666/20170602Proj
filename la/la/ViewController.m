@@ -16,8 +16,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+
     NSLog(@"我在王五的分支里写代码,by:李四");
     // Do any additional setup after loading the view, typically from a nib.
+
+    NSLog(@"我是李四");
+    NSLog(@"没错,我就是李四,是不一样的烟火");
+
 }
 
 
